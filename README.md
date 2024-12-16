@@ -72,7 +72,7 @@ Source: [Kaggle Mushroom Species Dataset](https://www.kaggle.com/datasets/thehir
    ```bash
    pip install tensorflow keras numpy pandas matplotlib scikit-learn
    ```
-4. Run the training notebook:
+4. Replace the file paths to your file paths and run the training notebook:
    ```bash
    jupyter notebook denseNet_201_train.ipynb
    ```
